@@ -1,28 +1,29 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "A Lost Romantic's Tiny World"
+author: "Ronit Dutta"
+description: "Welcome to my tiny little world where I post stuff about my life, spam repositories that are important to me, post music that I happen to love and occasionally about my lousy Academic pursuits that I am oh-so-passionate about. I hope you like what you see because I most certainly do."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%d / %B / %Y"
 
 # Layout
 
+show_social: true          #show social platforms
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: HOME, icon: home}
+  - {file: "README.md", title: About Me, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:ronit.dutta@kgpian.iitkgp.ac.in"}
+  - {title: Github, icon: github, url: "https://github.com/ronitinvecc/"}
+  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/ronitd/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
