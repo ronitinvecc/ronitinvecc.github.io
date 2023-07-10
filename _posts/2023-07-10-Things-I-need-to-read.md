@@ -31,7 +31,7 @@ Okay so here are a bunch of things that I gotta study. Really simple stuff to be
 25. QML [colab files](https://github.com/ronitinvecc/Learn-Quantum-Machine-Learning)
 26. Torch Quantum - Pyorch Library for Quantum Simulation and QML by an MIT dude. [repo link](https://github.com/ronitinvecc/torchquantum/)
 27. **_QC Resources_ [important](https://github.com/ronitinvecc/Quantum-Computing-Collection-Of-Resources)**
-28. Qiskit tuts [github repo](https://github.com/ronitinvecc/qiskit-tutorials/tree/master/tutorials)
+28. **Qiskit tuts** [github repo](https://github.com/ronitinvecc/qiskit-tutorials/tree/master/tutorials)
 29. IBM Quantum Spring Challenge 2023 solutions github [**repo link**](https://github.com/ronitinvecc/ibm-quantum-challenge-spring-2023)
 30. **QML Full course** [repo link](https://github.com/ronitinvecc/Quantum-Machine-Learning)
 31. [***QISKIT Advocate Program Application guide***](https://github.com/ronitinvecc/application-guide)
