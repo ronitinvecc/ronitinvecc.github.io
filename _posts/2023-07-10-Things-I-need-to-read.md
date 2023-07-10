@@ -28,3 +28,4 @@ Okay so here are a bunch of things that I gotta study. Really simple stuff to be
 22. Pythia [worksheet](https://pythia.org/download/pdf/worksheet8200.pdf)
 23. CERN essential Intro to particle physics [link](https://indico.cern.ch/event/447008/contributions/1953687/attachments/1184942/1717323/ParticlePhysicsFOR_TEACHERS.pdf)
 24. github pages guide [video](https://www.youtube.com/watch?v=qZsgPgGdOzQ)
+25. [Overleaf](https://www.overleaf.com/learn)/ LATEX documentation
