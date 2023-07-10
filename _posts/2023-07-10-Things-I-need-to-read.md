@@ -18,9 +18,9 @@ Okay so here are a bunch of things that I gotta study. Really simple stuff to be
 12. Root [5](http://physics.bu.edu/neppsr/2007/TALKS-2007/ROOT_Tutorial_Bose.pdf)  //important
 13. Root [6](https://root.cern/doc/master/basic_8C.html)  //important
 14. Root [7](https://agnieszkamucha.github.io/ParticlePhysics/Files/Tutorial-ROOT.pdf)
-15. Root [4](https://indico.lip.pt/event/239/sessions/72/attachments/429/519/Root_v2.pdf) (important)
-16. Root [5](http://arpg-serv.ing2.uniroma1.it/twiki/pub/Main/TutorialRoot/SessionI.pdf)
-17. Root [6](http://pprc.qmul.ac.uk/~bona/ulpg/unix-root/lecture5-6.pdf)
+15. Root [8](https://indico.lip.pt/event/239/sessions/72/attachments/429/519/Root_v2.pdf) (important)
+16. Root [9](http://arpg-serv.ing2.uniroma1.it/twiki/pub/Main/TutorialRoot/SessionI.pdf)
+17. Root [10](http://pprc.qmul.ac.uk/~bona/ulpg/unix-root/lecture5-6.pdf)
 18. [Shor Code](https://www.slac.stanford.edu/slac/sass/talks/frederico_6-30-2010.pdf)
 19. Stanford SLAC lecture seminars [link](https://www.slac.stanford.edu/slac/sass/archive.html)
 20. [QECC](https://en.wikipedia.org/wiki/Quantum_error_correction)
