@@ -16,7 +16,7 @@
    3. I won’t adapt to change. I am scared of uncertainty and resistant to change. “Nah, I’m good” is my life motto. Nah, I am not talking about nitpicking things. I do not have that kind of luxury. Beggars can’t be choosers. Yes, do say no to things that are going to sabotage you. But I don’t think a loser like you has an infinite amount of options, do you?
 5. Things will automatically come to me.
    1. I won’t need to do what I am supposed to do regularly.
-   2. I don’t need to show up at [insert] place at [insert] time to do [insert] thing.
+   2. I don’t need to show up at [insert place] at [insert time] to do [insert thing].
    3. Why? Cuz it’s fucking tough, and I lack the tenacity for that.
    4. Courage and discipline have never shown to accomplish anything, right?
    5. So what’s the point if things will never change for me? If I will remain the same for me. If my life is an excruciating and eternal circle of pain. Instagram is never leaving planet Earth, is it??
