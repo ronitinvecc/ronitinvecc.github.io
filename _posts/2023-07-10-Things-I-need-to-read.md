@@ -37,3 +37,5 @@ Okay so here are a bunch of things that I gotta study. Really simple stuff to be
 31. Root [8](https://indico.lip.pt/event/239/sessions/72/attachments/429/519/Root_v2.pdf)
 32. Root [9](http://arpg-serv.ing2.uniroma1.it/twiki/pub/Main/TutorialRoot/SessionI.pdf)
 33. Root [10](http://pprc.qmul.ac.uk/~bona/ulpg/unix-root/lecture5-6.pdf)
+34. [HEP Software Foundation](https://hepsoftwarefoundation.org/) (see all updates)
+35. [TMVA Tutorial](https://github.com/ronitinvecc/tmva-tutorial)
