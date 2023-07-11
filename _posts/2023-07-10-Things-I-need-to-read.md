@@ -45,3 +45,4 @@ Okay so here are a bunch of things that I gotta study. Really simple stuff to be
 39. **IRIS-HEP - Beyond High Energy Physics [link](https://iris-hep.org/impact-beyond-hep.html)**
 40. IRIS-HEP Project Presentations [link](https://iris-hep.org/presentations/bymonth)
 41. IRIS-HEP Publications [link](https://iris-hep.org/publications/all)
+42. [How to become a QCousin](https://qworld.net/wp-content/uploads/2021/03/Guidelines-for-QCousins-25.03.2021.pdf)
