@@ -4,7 +4,7 @@ Hey this is my first custom post. committed on 10-07-2023. I feel pretty good ab
 
 Okay so here are a bunch of things that I gotta study. Really simple stuff to be honest. 
 
-1. Markup guide [Github Markup documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+1. Markup guide Github Markup documentation [1](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) [3](https://github.github.com/gfm/) [4](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
 2. Guide to your 20s [Youtube](https://www.youtube.com/watch?v=kuEN1KbjjTE)
 3. An [***aid***](https://www.youtube.com/watch?v=ObhXJ3Ivxtg&t=141s) to treat the hopeless loser in you.
 4. [Numpy documentation](https://numpy.org/doc/stable/reference/routines.html)
