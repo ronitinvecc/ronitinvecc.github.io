@@ -4,10 +4,6 @@ Hey this is my first custom post. committed on 10-07-2023. I feel pretty good ab
 
 Okay so here are a bunch of things that I gotta study. Really simple stuff to be honest. 
 
-0.1. Ambarish Singh (Feature engg & EDA)[https://github.com/Ambarish-224/EDA_and_Feature_Engineering/tree/main]
-0.2. Ambarish Singh (ML)[https://github.com/Ambarish-224/All_About_Machine_Learning/tree/main]
-0.3. ML Books/ Posts/ Resources (Local)[https://drive.google.com/drive/folders/1k-IEBpsQbtwFCNsdeIyN-vpWSS4qHWzX?usp=sharing]
-
 1. Markup guide Github Markup documentation [1](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) [3](https://github.github.com/gfm/) [4](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
 2. Guide to your 20s [Youtube](https://www.youtube.com/watch?v=kuEN1KbjjTE)
 3. An [***aid***](https://www.youtube.com/watch?v=ObhXJ3Ivxtg&t=141s) to treat the hopeless loser in you.
@@ -52,3 +48,6 @@ Okay so here are a bunch of things that I gotta study. Really simple stuff to be
 42. [How to become a QCousin](https://qworld.net/wp-content/uploads/2021/03/Guidelines-for-QCousins-25.03.2021.pdf)
 43. ***IIT KGP ML RESOURCES - (2018 Course <well structured and up-to-date>)[http://cse.iitkgp.ac.in/~sudeshna/courses/DL18/]***
 44. ***IIT KGP ML RESOURCES - (2022 course with good amount of introduction to ml and dl)[http://cse.iitkgp.ac.in/~adas/courses/dl_spr2021/syllabus.html]***
+45. Ambarish Singh (Feature engg & EDA)[https://github.com/Ambarish-224/EDA_and_Feature_Engineering/tree/main]
+46. Ambarish Singh (ML)[https://github.com/Ambarish-224/All_About_Machine_Learning/tree/main]
+47. **ML Books/ Posts/ Resources (Local)[https://drive.google.com/drive/folders/1k-IEBpsQbtwFCNsdeIyN-vpWSS4qHWzX?usp=sharing]**
