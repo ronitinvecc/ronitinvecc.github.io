@@ -46,8 +46,8 @@ Okay so here are a bunch of things that I gotta study. Really simple stuff to be
 40. IRIS-HEP Project Presentations [link](https://iris-hep.org/presentations/bymonth)
 41. IRIS-HEP Publications [link](https://iris-hep.org/publications/all)
 42. [How to become a QCousin](https://qworld.net/wp-content/uploads/2021/03/Guidelines-for-QCousins-25.03.2021.pdf)
-43. ***IIT KGP ML RESOURCES - (2018 Course <well structured and up-to-date>)[http://cse.iitkgp.ac.in/~sudeshna/courses/DL18/]***
-44. ***IIT KGP ML RESOURCES - (2022 course with good amount of introduction to ml and dl)[http://cse.iitkgp.ac.in/~adas/courses/dl_spr2021/syllabus.html]***
-45. Ambarish Singh (Feature engg & EDA)[https://github.com/Ambarish-224/EDA_and_Feature_Engineering/tree/main]
-46. Ambarish Singh (ML)[https://github.com/Ambarish-224/All_About_Machine_Learning/tree/main]
-47. **ML Books/ Posts/ Resources (Local)[https://drive.google.com/drive/folders/1k-IEBpsQbtwFCNsdeIyN-vpWSS4qHWzX?usp=sharing]**
+43. ***IIT KGP ML RESOURCES - [2018 Course <well structured and up-to-date>](http://cse.iitkgp.ac.in/~sudeshna/courses/DL18/)***
+44. ***IIT KGP ML RESOURCES - [2022 course with good amount of introduction to ml and dl](http://cse.iitkgp.ac.in/~adas/courses/dl_spr2021/syllabus.html)***
+45. Ambarish Singh [Feature engg & EDA](https://github.com/Ambarish-224/EDA_and_Feature_Engineering/tree/main)
+46. Ambarish Singh [ML](https://github.com/Ambarish-224/All_About_Machine_Learning/tree/main)
+47. **ML Books/ Posts/ Resources [Local](https://drive.google.com/drive/folders/1k-IEBpsQbtwFCNsdeIyN-vpWSS4qHWzX?usp=sharing)**
